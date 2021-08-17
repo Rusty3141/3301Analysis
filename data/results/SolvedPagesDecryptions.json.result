@@ -1,0 +1,42 @@
+Attempting to read job settings from SolvedPagesDecryptions.json. Done.
+
+Initialised a new decryption worker with the following options:
+ • Gematria Path: S:\3301\3301Analysis\data\GematriaPrimus.txt (valid path).
+ • Ngram Width: 3.
+ • Ngram Statistics Path: S:\3301\3301Analysis\data\ngrams\Trigrams.txt (valid path).
+ • Is Shift Mode: False.
+ • Datafile Directory: S:\3301\3301Analysis\data\sections\ (valid path).
+
+Loading attempts. Done (loaded 2 attempts).
+Generating mathematical data. Done.
+Initialising text fitness worker from provided frequencies. Done.
+Attempting to decrypt 2 rune files.
+
+─────────────────────────────────────────────────────────────────
+
+Started decryption of "S:\3301\3301Analysis\data\sections\14.txt".
+The optimum result is using attempt "p i prime 1 - -" (and skipping rune index 56), with score -3.312:
+AN END WI[TH]IN [TH]E DEEP WEB [TH]
+ERE EXISTS A PAGE [TH]AT HA
+SHES TO
+
+36367763ab73783c7af284446c
+59466b4cd653239a311cb7116
+d4618dee09a8425893dc7500b
+464fdaf1672d7bef5e891c6e227
+4568926a49fb4f45132c2a8b4
+
+IT IS [TH]E DUTY OF EUERY PILGR
+IM TO SEEC OUT [TH]IS PAGE
+File finished in 0.012s (50% of the whole job has been finished).
+
+─────────────────────────────────────────────────────────────────
+
+Started decryption of "S:\3301\3301Analysis\data\sections\15.txt".
+The optimum result is using attempt "p", with score -3.314:
+PARABLE LICE [TH]E INSTAR T
+UNNELNG TO [TH]E SURFACE
+WE MUST SHED OUR OWN C
+IRCUMFERENCES FIND [TH]
+E DIUINITY WI[TH]IN AND EMERGE
+File finished in 0.012s (100% of the whole job has been finished).

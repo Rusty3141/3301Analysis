@@ -1,0 +1,7 @@
+<single> ::= sn
+<special> ::= sp
+<operation> ::= op
+<value> ::= <single>|<single><special>|<single><special><special>
+<adjust> ::= <value><operation>
+<step> ::= <value>|<value><adjust>
+<decryption> ::= <step>|<step><adjust>

@@ -1,0 +1,15 @@
+﻿{
+  "GematriaPath": "GematriaPrimus.txt",
+  "NgramWidth": 3,
+  "NgramStatisticsPath": "ngrams\\Trigrams.txt",
+  "IsShiftMode": false,
+  "DatafileDirectory": "sections\\",
+  "FileNamesToDecrypt": [
+    "14.txt",
+    "15.txt"
+  ],
+  "Attempts": [
+	"p i prime 1 - -",
+	"p"
+  ]
+}

@@ -1,0 +1,779 @@
+Attempting to read job settings from UnshiftedOverSections.json. Done.
+
+Initialised a new decryption worker with the following options:
+ • Gematria Path: /media/veracrypt1/3301/3301Analysis/data/GematriaPrimus.txt (valid path).
+ • Ngram Width: 3.
+ • Ngram Statistics Path: /media/veracrypt1/3301/3301Analysis/data/ngrams/Trigrams.txt (valid path).
+ • Is Shift Mode: False.
+ • Datafile Directory: /media/veracrypt1/3301/3301Analysis/data/sections/ (valid path).
+
+Loading attempts. Done (loaded 961311 attempts).
+Generating mathematical data. Done.
+Initialising text fitness worker from provided frequencies. Done.
+Attempting to decrypt 16 rune files.
+
+─────────────────────────────────────────────────────────────────
+
+Started decryption of "/media/veracrypt1/3301/3301Analysis/data/sections/00.txt".
+The optimum result is using attempt "p φ π p φ prime - p φ π *", with score -3.928:
+Y[EA][EA][AE][AE]NGNGO Y[TH][EA][TH][EA] [IA]S[AE]R OSS
+[AE][EA][IA] [EA][EA][EA][TH]YYS[EA][EA][TH][IA] [EA]R[AE][EA][IA] [EA][TH][EA]NG
+[TH][TH][EA] [EA]S[IA] Y[TH][TH][EA] [TH][TH][TH] [EA]NGO[EA][AE]O
+Y[TH]YO[TH][IA][TH][TH][TH][EA]NG [TH][EA] [TH][IA] [AE][AE][TH] [TH]R[IA] [EA]
+R[EA][EA][IA][TH][AE] [TH]O[TH][EA]S [IA]YNG[EA][TH][EA]NG[TH] [EA][EA] Y[EA]R
+NG [EA][TH] [EA][IA][TH] [EA]O[EA] [EA][IA]S[EA][IA] [IA][TH] [TH][TH][TH] [TH][EA]
+[EA][TH] [TH][EA][TH][EA] [TH][EA][EA][TH][TH]O NGY[EA][EA] [TH]S[EA]Y[AE]
+[TH] [EA][AE][IA] [TH][EA][TH]Y [TH][AE]NGS[AE][AE]Y[EA] [TH]Y[TH][EA][IA][TH]S
+S[EA]Y [TH] O[EA]R[TH][AE][EA] OY[EA][EA]YR O[AE][EA] NG[EA]Y[EA]
+[TH]NGO[AE]NG YY [TH]NG[TH][EA][EA][EA][TH][TH] S[TH]NG[AE] [TH]
+[EA][EA] [TH][TH][AE] S[TH]Y[IA][AE][EA]Y RY[TH][IA][EA][AE]Y [EA][EA] YS
+YS[TH][IA][AE] Y O[AE][EA][EA][TH]SYOR NG[AE][TH] [TH]YNG[AE] [EA]
+Y[EA]NGY[EA] YS[AE][IA][EA]YYNG SYR[TH]Y[TH][TH]Y [EA][AE][IA]
+NG [AE][TH][AE][TH][IA]O [TH][EA][EA]Y S[EA] OY[AE] O[TH] [AE][AE]SNG[EA]
+NG[AE][TH][EA] R[EA][EA][AE][EA][TH] SYY [EA][AE] R[TH] S[EA][TH]YS [TH]
+YS RS[TH][EA] [TH][IA][AE] [TH]S[TH] [EA]O[EA]S YR [EA] [IA][TH]
+[IA][EA] S[EA][AE] [TH]OY[EA]RS [TH][TH][EA][AE][EA]Y [AE]RNG[TH][IA][AE]
+ [TH]YS[IA][AE][TH]R [EA]Y[TH][EA][TH][EA] Y[EA][EA]Y[AE] [AE][EA][TH] SO
+[EA][EA]NG[EA][TH][TH][EA]NG [AE][IA] [EA][EA]R[EA][EA]NG[TH] [AE]Y[EA] O[AE]
+[TH][TH][EA][IA] [TH][EA]Y[TH]Y[EA][EA][AE]NG [EA]Y[IA] O[TH][TH] [EA]NG
+NGYR[AE] [EA]Y [EA][TH] [EA][TH][IA][EA][TH][TH][TH] [EA][IA] [TH][EA] O[EA]
+S[TH] [EA][TH][EA][EA][AE][EA]S [TH][EA]S [AE]NG[AE] [EA][TH]Y[TH][TH] [EA]
+[TH][EA] O[EA]S[TH][EA] SR [IA]Y [EA][AE] [EA][TH][IA]OSY Y[EA]
+YY NGOYOY [AE][EA][IA] [IA]Y[AE] [EA][TH]YYYS[TH] Y[EA][EA]
+SNG [IA] [EA]Y [TH][EA]Y[TH][EA][TH]NG [TH][AE][TH] [EA][EA][TH][EA][AE][EA]
+[TH]Y[EA][EA]NG[TH][AE] [EA][EA][TH] [EA][EA][AE][EA][EA] [IA][IA][EA][TH] [EA][EA][TH][AE]S
+[TH][IA] [TH][TH]O[EA][EA][EA][TH]NG[TH][AE] [TH][TH]SNGSNG[EA] OY S
+[TH][EA][IA][AE]YY [EA][EA][AE][AE][TH]Y[TH] [IA]Y[EA][EA][TH] NGY[IA][TH] [TH]OY
+[EA][AE][EA][EA] [EA][AE][EA]Y[EA][EA] [TH]YO[EA][AE][TH][EA]OY R[EA][EA] [TH]
+[EA] O [TH]YY[IA][TH][EA]YS S[EA]Y[EA][TH][TH][IA][TH][EA] [TH][EA]
+[TH][EA][EA][TH] [IA]NGR[EA]YY[EA][EA][EA][EA] [TH]S[TH][EA] [EA][EA]Y [AE][EA][AE]
+[IA][TH][EA]Y[AE] [IA][EA][AE]NG[EA]RS[EA] [TH][TH][TH] [AE]R YY [TH]S
+[EA][IA][EA]YY[TH]S[TH] O[TH] [EA][TH][EA]NG[IA][TH]Y[IA][EA]
+File finished in 4h 22m 2s (5% of the whole job has been finished).
+It will take an estimated total of 80h 35m 40s to finish the job, which is another 76h 13m 38s.
+
+─────────────────────────────────────────────────────────────────
+
+Started decryption of "/media/veracrypt1/3301/3301Analysis/data/sections/01.txt".
+The optimum result is using attempt "p φ prime p φ - p φ π -", with score -3.845:
+IT [TH][TH]L[TH]UIETIN[TH] IUT IL[EA][EA]
+ LNI[EA][TH]LN N[EA]LN[EO]L[EO] LNLII[EO]
+[EO] [EO]L[EO][TH] [EA][EO][EA]NIL [EA]IIN[EO]NN[TH][EO][EA]
+T[EO] L [EA]I[EO][EA]T[TH]I[EO]N Y[TH] [EO]L[TH]L [TH]II N
+N[TH][EA]L[EO]LI LIU[EA]T[EO] UNL [TH]TI[TH][EO][EO]
+[EO]Y[TH][TH] T[TH]IT YLN[EO]NI
+
+LYU [TH]Y[TH] EI[TH] [EO][TH] L[TH] N[EO]LU
+U [TH]IU[EA][TH]L ILI NEL[EA]II IN
+[EA][TH]NY[EO]N[EO]I[EA] [TH]L[TH]EN IU[EA] [TH]T[TH]
+ [TH]Y[EO]N [TH]EEL[EA] LL [EA]I[EA][EA]Y[TH][TH] [EA]U
+NL[EO][EA] N[TH]L[EA]II[EO]L [EA][TH]L [TH]T[TH][EA]N [TH]L[TH]
+File finished in 5h 29m 15s (7% of the whole job has been finished).
+It will take an estimated total of 75h 57m 1s to finish the job, which is another 70h 27m 46s.
+
+─────────────────────────────────────────────────────────────────
+
+Started decryption of "/media/veracrypt1/3301/3301Analysis/data/sections/02.txt".
+The optimum result is using attempt "p φ prime p φ - p φ π -", with score -3.786:
+LYU [TH]Y[TH] EI[TH] [EO][TH] L[TH] N[EO]LU
+U [TH]IU[EA][TH]L ILI NEL[EA]II IN
+[EA][TH]NY[EO]N[EO]I[EA] [TH]L[TH]EN IU[EA] [TH]T[TH]
+ [TH]Y[EO]N [TH]EEL[EA] LL [EA]I[EA][EA]Y[TH][TH] [EA]U
+NL[EO][EA] N[TH]L[EA]II[EO]L [EA][TH]L [TH]T[TH][EA]N [TH]L[TH]
+I[EO] LLN[TH]N[EO][TH][TH] I[EA][EA]N[EO][TH]N L[EA][EA][EO] [TH] T
+[EO] TNL U[EO][TH]L[EA]L LN[TH] ILU NT[EA]T
+U [EA]L [EO]N IN IUNE [EO]YL[TH][EA]L [TH]I [EA][TH]
+[EA][EA][TH] ELT[TH]N[EO] NU[EO]UT[EA] N [EA]IT[EA] U[TH][EA]
+UL[TH] I[EA] [EA]L L[EO]L [EO]EI ULNE N[EO]
+NITI L[TH][EA] [TH]L[EA] U L[TH][TH]N [TH]LLTL
+[EO]N[TH]N [EO]LL [EA]T[EA][EA] [EO][EA][EO]L[EO]N ETUT L
+NTI [EA]I[EA][EO]ILINII [EO]N[TH]N TIT[EO]N[EA]
+N[EO]I [TH]IIT I[EO][EA]NUILU [TH]N [EA][EA]I[TH]L
+[TH]T[EO]T N[EA]TL LU [EA]L[EO] NUIL[EO]LIL L
+N[EA][TH]N E[TH][EA]NEI[TH] [EA]L[EO] NN[EO][EO]N UN[TH]Y
+LI[TH][EA]I[TH][EA]YLL [EO]IU[EA] [TH]U[EA][TH]U NNI U
+[EA]E N[TH]TE[EO]I[EA] [TH]LY [TH]L[EA] [TH]ITNLT[TH]U
+[EA]YNI NI[EA]L[EA]N YNT L[TH][TH] ULNL [EO]
+[TH]Y[TH]L[TH]L NLY[EA] I[TH]I NIL [EA][TH] LL[TH]
+L[EA][TH]IN[EA] [TH]EI LL[EA]L [EA]YNI NINEI [TH][EA]
+[TH]U LLNI[EA][TH]I N[EO][TH] UTLTITNI L
+L[EO] NNT [TH]NI [TH]Y[TH]I UL[TH]UTU[EA]U [TH]L
+I UT[EO]L LE[TH]I [TH]LILYLE[EA][TH][EA] T[EO]
+NTT[EA] U[EO][EA][EO][TH] [TH][EA]T [TH]TL[EO] NLLU[EA]EL
+LN[EO]NI [TH][EA]LYLT E[TH] [EO][EA][TH]EUIE TI
+[TH]L [EA]YI[TH]LLTL[EA] U[EO][EA]LTULIU[TH] I
+Y EL[EA]T [EO][TH][EA][TH][EA][TH]T LN[EO][TH]NE YL[TH] TT
+L[TH]NL NI[EA]L IUI [TH]L[TH] [EA][TH]T EL I
+N[TH]I[TH]Y[TH] N[EO]L ENT LI[EO] NLN [EO]I
+N[TH][EO]ILIUIIT [EO]YL[EA]YT U[EA]NTN LYI
+[EA]I[EO][TH]N[EO][EA] L[EA][TH] [EA]E[TH][EO][EA]LL YI[EA]INT U
+[EA][TH]L
+File finished in 9h 37m 12s (13% of the whole job has been finished).
+It will take an estimated total of 76h 5m 4s to finish the job, which is another 66h 27m 52s.
+
+─────────────────────────────────────────────────────────────────
+
+Started decryption of "/media/veracrypt1/3301/3301Analysis/data/sections/03.txt".
+The optimum result is using attempt "p φ prime p π prime ^ p π φ ^", with score -3.813:
+EMIR T U[EO]ER IT ULTEUTO
+I[TH]MWU[EO] T[TH]M T[TH]F [EO]M [EO]W[TH][EO][EO]
+T[TH][EO]W OEMFUL[EO]T EE[TH][TH]WTI[TH]
+I[TH][EO]E[TH] TE U[EO]TE[TH]LF W[TH]I[EO] RE[EO]M[EO] [EO]
+[TH]T OEWT [EO][TH] ORM U[EO] WUE[TH]E FT[EO]R
+U[TH] [TH][TH][EO]RUR TU[EO]T TLT ERERUE E
+[TH]T RIR ETUTW[EO] RT[EO] IELTI T
+T[TH]U TWRTT RI[TH] RI[EO] T[EO][TH]T WI[TH]
+O[EO] METT[EO][TH] T[EO] [EO]EI[TH][TH][TH]TEU[TH][TH]
+T TRT[TH] [EO]FL[TH] R[EO][TH]T ETL ET[EO][EO][EO]R
+O R[EO]T[EO] ITT T[TH][EO]TL[TH]TI [TH]TI TUW
+ I[TH]E [EO]R[EO][TH][EO][TH] [EO]T UR[TH]ELT MWUULE
+[TH] LF[TH][TH] OT OT RURI ELT TE[EO] [TH] O
+[TH][TH]E[TH]E T[TH]RT ILT R[TH]M TTWT[TH]T T[TH]
+[EO][TH]E[EO] [EO]I [TH]T[TH]ME[TH][TH]L[EO]F[EO]T [TH]TE
+OW [EO]MIE T[TH][EO] IT UTT
+File finished in 11h 24m 12s (15% of the whole job has been finished).
+It will take an estimated total of 74h 40m 27s to finish the job, which is another 63h 16m 14s.
+
+─────────────────────────────────────────────────────────────────
+
+Started decryption of "/media/veracrypt1/3301/3301Analysis/data/sections/04.txt".
+The optimum result is using attempt "p φ prime p φ φ * p φ π ^", with score -3.887:
+OMOR [TH]ORM[TH][EA]UI RO[TH] [EA]O
+ [EA]U[EA] UM[EA]R[EA]UO[TH][TH] [EA]M[TH]U
+CO[EA] [TH][TH]O[EO] UR MI U[EO]O[TH]C[TH]
+[EA][TH][TH] I[EA]O[TH]OCI [EA]UM [EA][EA][TH][EA] U[TH]O [TH]M
+CU[EA][TH]OU [EA][TH]O[TH] R[TH]U [EA]OMO [EA][TH]UO[EA]
+[EA][TH]M[TH][TH] [TH][EA] UO[TH] MIOO UIO[EO] [TH]UCR[TH]
+[TH]O UORCC RMM[TH][EA]M[TH]R[EA][EA] UIM[EA]
+OM OCC[TH]UR[EA]O[TH][TH]OC CM[EA]U MO[TH][EA]I
+O[TH]O [TH][EA] O[EA][EA]U[TH][TH] M[EA]O[EA]M[EA]M[EA]U[TH] [TH]
+OOC U[TH]IOMIO[TH]C RO[EA][EA]CM M[TH]O[TH]I O
+[TH][TH][TH]U[TH] IU[TH]RC[TH]OM IO[TH][TH][EA]CCO R[TH]I
+C[TH] O[EO]IUO[TH]RMC U[EA]OO[EA][EO] [TH]UM[EA][EA]O M
+[EA]OIUC [EA]R[TH]O[EA] [TH][TH]O [EA]RRO[EO]C M O
+RR O[EA]U [TH]O[EO] U[EO] [TH][EA]ORU CMO[TH]OC
+C[TH][TH][EA][TH] [TH]M[TH][EA] M[EA]U[TH]IU[TH] [TH][TH]C [TH]OO[EA]
+CR MM[EA]I[TH][EA] [EA]UM[EO] C[EA][TH]I M[EO]M[TH] O
+O[EO] [TH]R MM[EA] IOR[EA]OMR IR[EA] U[EA]MM [EA]
+[TH]UO[EA][EA]UC OMC[TH] O[EA] [TH][EA][EA] RIM O[EA]
+OI[TH]COR IUOU[TH] [EA]O[EO] ROR U[EA][TH] M[EO]
+MCIO UR[EA]MIMC [EA]CURU [EA]MC [TH]ORM[TH]
+UUM C[EA] [EA][EA]ROOO OMC[TH]RIOMR[EA]M
+UM I[TH][EO] OOOOIU [TH]C[TH]R [TH]R[TH]UUO [TH][TH]R[TH]
+[TH][TH][TH]ORU[EO][EA] [EA][EA]U[TH][EA][EA][EA][TH] COM[TH]O M[TH]
+U U [TH][TH][TH] IU[EA][EA]O[EA]MM OR[EA]UIOR[EO][TH][TH]
+M O[TH] [EA][TH][TH][TH]O U[TH]R[TH] O[TH][EA][EA]O[EA]O O
+C [EO]CI OO[TH]MM[TH][EO] M [TH][EA]U C[EA]R O[TH] O[TH]O
+[EO] OU[TH][EA] O[TH] [EO]CRO ROO OI[EA][EA]C R
+OI CU[EO]MRUO [EA]R MUOMO O [TH]RU[EA]
+[EA][TH]UCRO[EA] MU[TH]C [EA][TH][TH]CU U[TH]O MIM
+[EA][TH][EO] [TH]O[TH]C MC U[EO]R [TH]O[EA]MI[TH][EA] [TH][EA]
+U[EA] OM[TH]C[TH]MMO I[TH]O R[TH][EA] C[EA][TH]M[TH] OM[EA]
+OU MMROCI[TH]O [TH]I O[EO]M U[TH][TH] 7 U [TH]COI
+ [EA]MIOM I[TH] MO OM[EO]U[EA] I[TH][EA][TH][EA] OU
+MRUCI[TH] U[TH][TH] MM [TH]ROMUO[TH] [EA]OM RO
+[TH] ROO O[EA]O UM[EA]M[EO][TH]O[TH]R[EA]C [TH]OC
+O OUMI[TH]CUI[EA] I[TH]C[EA]R[TH][TH] [TH]COIC[TH] M
+R[TH]MO OI O[TH][EA] [TH]OM[EA] IRUOOMO OOR[TH]
+UO C[TH]MU [EA][EA]O[TH][TH]CUOM II O[TH][TH]O[TH]O
+[TH]O CO M[TH]O R[TH]OO [TH][EA][TH][TH]U[TH]R[EA] O[EA][TH]
+MRMR [TH][TH]M MM M[TH][TH]O MI IMO[TH]M[TH]UO[TH]
+U[TH] OM[EA] [TH]OCIO OM [TH]IU OMUO MMC [EO]
+O[EA][EA]OURMM OC[EA]R[EO]M[TH]O[EA] RM O[TH]
+M[TH]OO[TH] IM[TH] [EA]C[TH]MUI[EA] [TH]MI[TH]UOI O
+[TH] IOI M[TH][TH]U C[EO]O[TH][TH] RCR[TH][EA][TH][TH] I
+O[EA] [TH]CM[TH]I [TH][TH]UIC[TH]UOCMO ROU [TH]O[TH][TH]
+[EA]R[EA]M[TH]RM[EA][EO] O[TH]OIM[TH][TH]MUMO M[EA]
+[TH][TH][TH][TH][EA][TH]MOO[EO]O [TH][EA]M[EA]M [EA]UR CO[TH]
+[EA]O[EO]UC [TH][EA][EO] M[TH][TH]U[TH]OMMOU[TH]O O[TH][TH]
+MM UMO [EA]M[TH] [TH]MM[TH] ROC UM[EA] [TH][EA][TH]
+U[EA][TH][TH]R OMO[EA]U[EA][EO][TH]M CM[EA]MOO[EA][EA]
+O IM[TH]U[TH]C O[EA][EA][TH]UUOMRC [EA][TH]O[TH][TH]
+[EA][TH] [TH]I O U[EA]O M[EA] [TH]O[TH] O[TH][TH][EA] [EA]U [TH]
+URC[EA]RI OCI OO [EO]O[EA]R [TH][TH]RO[TH]
+MR RM[TH]C M[EA]O[TH] OIM IO [EA]I [TH][TH][EA]O C
+[TH]OO O[TH][EA][TH] O[TH]RO OOM CMOOUOO M
+[TH] UUU [EA][TH]O[EA] IM [EA]MC [EA] URU MUC UM [TH]
+MO[EA][TH]UO [TH]C[EO][EA] O[EA]U[TH][TH] [TH]UM[TH] [TH]IM
+[EA]U[EA][TH][TH] RI[TH]O[TH]M RII [TH][TH][EA] [EA]MMO
+M[TH][EA] M[TH]O[TH]URI[TH]I OUM [EO]OM[EA] O[TH]OOO
+C IMUO[TH]OO[EA]OM OORM [TH]CO [EA]U[EA]C
+U[TH]OCUM IMR[TH]M[EA]O OIOU UM[TH][TH]OC [EA]
+[EA][TH]R[EA] [TH] UO[EA] R[TH]I [TH]O[EA] UU OU[EA]I O
+[TH]UO [EA]ROO OUIU[EA][TH] UM O[TH]IMR RCO
+OU[TH]OOM O[TH]I[EA][TH] [EA][TH] O RU [TH][TH]R [EA][TH][TH]O
+[EA] [TH]O[TH]MI[TH][EA]O [EA]R[TH]U OC[TH]MO[TH] O[EA]U
+M[TH][TH]CR [TH]OM [EA]R [TH]OO[TH] U[EA]M[TH] M[TH][EA] RO
+[TH]I O[EA][EO][EA]MOI [TH]R MRU U[TH][EO] C [TH]RMU
+ [TH]C [TH]UII[TH][TH] O[TH][TH]R[TH] [TH]O[TH]U COICUCOM
+[EA] [TH]O[EA]OC[TH] [EO]O[TH][EA] OUUMR MR[EO]M[TH]
+M[TH][TH][EA]ORU IU[EO]ORIOM[EA][TH][EA][EO]I[EA] [TH]
+[TH]R[TH]MO MM[TH][EO] [EA][TH]IO RMR[TH] U[TH][TH][EO] O
+[TH]U[EA] [TH][TH][EA][TH] [TH][TH][EO]IOC[EO] [TH][EA][TH]C [TH]OMMIC
+[TH]C OU[TH][EO] OUM [TH]UR [EA][TH][TH] CMOC[EA]R
+MM[EA][TH][EA] O[TH] [EO]I[EA]MOC [TH]O[TH]U[TH]IO R[TH][EA]
+I[TH]O C[EA][EA]R [TH][EA]UMU [TH][EA][TH] RMO [EA]U
+MI[TH] OOMO[EA][TH] URRO[EA] O[TH] [EA][EO]MIU
+OO[EA][TH] O[EO][EA] OR[EA]C OROR[TH][TH] O[TH]O
+MU[EA][EA]M IC [TH][EA]R MUM[EA]U[TH] M[EA]IM[TH]U[TH][TH]
+ C[TH] [TH][TH][TH][TH][EA]M
+File finished in 24h 17m 53s (28% of the whole job has been finished).
+It will take an estimated total of 86h 1m 55s to finish the job, which is another 61h 44m 2s.
+
+─────────────────────────────────────────────────────────────────
+
+Started decryption of "/media/veracrypt1/3301/3301Analysis/data/sections/05.txt".
+The optimum result is using attempt "pr π φ i π π ^ i π π +", with score -2.252:
+RUN[TH] EINCE
+3258 3222 3152 3038
+3278 3299 3298 2838
+3288 3294 3296 2472
+4516 1206 708 1820
+File finished in 24h 22m 5s (28% of the whole job has been finished).
+It will take an estimated total of 85h 46m 53s to finish the job, which is another 61h 24m 48s.
+
+─────────────────────────────────────────────────────────────────
+
+Started decryption of "/media/veracrypt1/3301/3301Analysis/data/sections/06.txt".
+The optimum result is using attempt "p π prime pr prime 1 - ^ p π π -", with score -3.882:
+WRO[TH] DR F[TH]L[TH]O ERER NO[TH][TH]O R
+AENG[TH]E ONGWRE NEE[TH]ENG [TH]
+RD RA[TH] [TH]O[TH][TH]TREEO LEFNGD[TH]A T
+[TH]R E[TH]EEF [IA][TH]EOPELR OF [TH]LER [EO]E
+EO OR[TH][TH]O [TH]NF EAEEW TPRD [TH][TH]PL
+EENGW RLLP [TH]RPO WEO LTW RW O N
+EEO FEO[TH]EE O[TH]W[TH] NG[TH]O E[EO]FTNG[TH]
+OPROLTNGONGEDNGL TPDNG[TH]D[TH]
+[EO] P AED[IA]N RRFDO [TH]O LOR L[TH]F O[IA]LOE
+O FEROW LOEO[TH]P O[TH]T ENGE REE OF
+E PE[TH]R[TH]OL RE EA WN[TH] EAOL [TH][IA]AA
+ [EO]NR[TH]O TNP AN[TH]NG EAD ENG[TH]W FO
+[TH] T[TH][TH] [TH][EO]NG [TH] ER EOLAO[TH] [TH]AET[TH]
+[TH]DO R[TH][TH][TH]R[TH]LF D[TH]E[TH]LO L[EO] EPNG
+ER[EO] LNGOO[TH] [TH]LL[EO]PNEOREO[TH] W
+NGP[TH] RLE DFRNDFW[TH]NOET OD ON
+DEF[TH]O OO[TH]O PRO ENT [TH][IA]T OE[TH]RNG W
+L[TH]F[EO] NGO RDOE OTEO[TH]LE O[TH]NG[TH]W E
+ OA[TH]OE[TH]AF ETAE N[TH][IA]E[TH]N [TH][TH] NA
+W[TH] [TH]P [TH]NGF ERFR [TH][EO] D[TH]OE[IA]OLO OO
+WNENGO OE[TH]L OE LRO NGR OP[TH] [TH]ONG[EO]
+NGR O[TH] L[TH] OLA[TH][TH]E[TH] OEONGF E[TH]L NGO
+OEF[IA]WL [EO]E[TH] [TH][TH]DO A[TH] LOT ROT L
+[TH]EO[TH]R L[IA] [TH][EO][TH]N[TH]DF [TH]EE NREOO F
+EL[TH]EL NG DOO[TH]OTO [TH]OA E[TH]ET O[TH]
+NG NG[TH]TE [TH]O[TH]OEE E OOOEO[EO] [IA]O NGAE
+O[EO] ARP[IA] [TH]E EOR[TH]R[TH][TH] LO[TH]O [TH]D
+ODFE ONR[TH] L ATNGN EO[EO] OEN [EO]NGON
+[TH] O PER[TH]E[EO]E[TH] E[TH]EW LD R[TH] [TH]ROOE
+NG [TH][TH]L[TH]OAO[TH] L[TH]EN AWE TR[TH]LDE [TH]
+ORE[IA] NROENG[TH]R NO[TH] N[TH][TH][TH] NGA NGWF[TH]
+NGR[TH]NGNGW OAL [IA]TFE NGD EP[TH] O[EO]O A
+RENGWAT EE EO PO[IA]T[TH]E OD[TH] ENGRE
+N[TH][TH]DE TE O[TH]EP L OOOO[TH] NGPNGED
+NGTNO [EO][TH]F[TH]OLRE EEL ENGA[TH]EE
+NR E[TH]OPROOF DTA LP[TH]E [TH]FO [TH]ND
+[TH]E P[TH]OL[TH]N NGNG[TH] OE T[TH]NGWR NT[TH]
+[TH]EL OOAOTNRO[IA]R NE[TH]NGRPE FNG
+D OW[EO]NG[EO] ROE[EO]FT[IA] LO[TH]EO [TH] PWP
+ [TH]L RPWE NO[TH][IA] NG[TH]E N[TH]F NGNOOD[TH]
+LPL NGO OR NGEOONPONG [TH][EO]FW L
+R [TH]O[IA]NNGE DN[TH]L R[TH]DP [TH]LP[TH]W [TH]O
+O[TH]O P[EO]OO ROONGDP[TH]TNG LFD A
+[TH]TN[TH][TH] TE[TH]RL[TH] P[IA]NGNG[TH] OTT[TH] RN NGNG
+[TH]E N[TH]PRDOT OOL [TH]E[TH]EO PE[TH][EO][EO]D
+ ETE[TH]PD RRNG [TH]ENGENGO NGE [TH]T E
+NGLNR [IA] OET[TH]ROTO LOREA [TH]W[TH] OL
+OFWEE OTONG[TH][TH]NG D[TH]WO[TH] RNGEEL
+O TO[IA] LP[TH]DNG TNGORT[IA][EO]R OOAO[TH]O[IA]
+P O [TH]AD[IA] [TH]AE WFD [TH]A[IA][IA] OE[TH]L [TH]W L[TH]
+WR[TH]OL PAONG[TH]EP OAEL [EO]O[TH] LFN
+O [TH]L[TH] OE[IA] [TH] NGOP[TH]NAO E[EO] OEOPL
+[EO] [TH]O[IA] NL [TH]PP[TH]O PEAF RN [TH]EF R[IA]
+[TH]EO W[TH]E F [TH][TH][TH] ETLP[TH]LODE OE RN
+RO[EO]O NGO [TH]TRP [TH]OE [TH]L[TH][TH]W[TH]F [EO]NG
+[TH] [TH]RF AENG [TH]EO [TH]N[TH]PONGRE OEFW
+E[TH]OE NO RNG ED NG[TH]O RO[TH]L [TH]O[TH]O[IA]
+NF[EO]AP[TH]E PR EONG OW OONGENGT R
+DOE EN[EO]NGO[TH][TH] [TH]RENG [TH]E OAE RNGL O
+EDW NG[TH][EO]R AWFL EPONLW [IA]LNG[EO] W[TH]
+[EO] O[TH] O[TH][TH] RPWROWT OA WDNGLAON[EO]
+RE A[TH]FE[EO] P[TH]RDNGAL L[TH] TLL[EO]OO
+LE E[TH]WOWE ERNG[EO]NGRLE DE[TH]T [TH][TH][TH]
+EOEN LAO[TH] EFLD NGRA WO E[EO]O [EO]OE[TH]
+O OLO O[TH]E FNG[IA]OR[TH]DF [TH]L[IA][TH]O ENAW
+PWRNE OPOF[TH]DRNG TEE OE[TH] EON
+ O[EO][IA] OE[TH][EO]RLE P[TH] ER E[EO]OLDO
+DONG PDA TENG [TH]NAOD[TH]D[TH] [EO]O [TH]RF
+[TH] ERE[TH]LOFNGTE[TH] OTO EO[EO]A [TH]OEW
+L ONT[TH]WTAENNG POD[EO]EO [TH]W E[IA]L[TH][IA]
+NER [TH]OT[TH]ALOO[EO]NE [EO][TH][TH]E[TH]OL[TH]OT
+[TH] [TH]NLOONG[EO]W[TH][TH] E[TH]D[TH]T[TH]LE O[TH][TH]RNG
+ [TH]ELN [EO][IA] OOER E[IA]LO P[TH][TH][TH]T P[TH]T
+R[TH]OROEO LONLF NG OD[TH] OO[TH][TH][TH][TH]
+W[TH]TF EA RTW RR PED[IA]WEPNG NTEWD
+ EDE ONGOAOP[TH]L NG[TH] [IA][TH][EO] [TH]O O
+LOROOE [TH]ENGE[TH]ONG O TELT [TH][TH]LA
+[IA]ERETE ONG [TH] A[EO][IA][TH]O ANR[IA]PER E[IA]
+OAEFR[TH]OE[TH]E [TH]A[TH][TH][TH][TH] E[TH]ROLPNT
+O[EO] EA [TH]A DT[TH]O[TH][TH] O[TH] [TH]D[TH]EOR E[TH]
+DE[TH]O[TH] RE[TH][TH] WA O[TH] FRTORE[TH][IA]LO[IA]
+N [TH]D[EO][TH][TH]OE E[TH]NGOR[TH]WLFRO OL[EO]O
+R[IA]F [IA]F[EO]O[TH][EO]E[EO]E[TH]RP EOT [TH][IA]E R[TH]
+[TH]NG WDAWNG NNGNGR NGEOR ALT O
+[IA]F[TH]AOF E[TH][TH]L[TH] F[TH][TH] NGONG [TH][TH]E
+File finished in 38h 49m 34s (42% of the whole job has been finished).
+It will take an estimated total of 91h 38m 51s to finish the job, which is another 52h 49m 17s.
+
+─────────────────────────────────────────────────────────────────
+
+Started decryption of "/media/veracrypt1/3301/3301Analysis/data/sections/07.txt".
+The optimum result is using attempt "p φ prime p φ φ * p φ π ^", with score -3.866:
+[TH][TH] O[EA]UO[EO]U MIM M[TH]IM[EA] [EA]U[TH]I
+[EA]OR[EA] MCM OMM U[EA]I[TH][EA]M[EA]
+[EA]O[TH]U[TH] UROR[EA] [EO]C[TH]RMOO
+[EO][TH]OUMM [TH]C[TH]C [TH]OU[TH] [TH]O[TH][TH] [EA]U[EA]IO
+[EO] [EA]IR[TH][TH][EO]O[EA][TH] [TH]OC[TH] U[TH]C IOUM[TH]O
+R [TH]UU O[TH]UR[EA]I[EA][TH]M[TH] UR[TH] COO[EA][EA][TH]
+[EA]M [TH][TH]II [TH] U[EA]OROU[EO] [EA]I[EA] [EA]C OUR
+ROU O[TH]O[EA] MRIR MOOR [EA][EA]MRRC I
+UR O[EA]OCI[TH] IIU [TH][TH]CUCO[TH] RO[TH][TH]OM U
+[TH] [EO] M[TH][TH]U[TH]C [EO]MU UO[TH][EA]OO [TH]M[EA][TH]
+[EO]UO OCI OMMO MR[EA][EA]O R[TH] OCO[EA] [TH]
+O[TH] M[TH] U[TH][TH]IUO[TH] U[TH]O[TH]M OO[EA]R O[TH][TH][EA]
+R [EA][EA][TH] OUU O[EO]M[TH] [TH]RR[EA]M[TH]U [TH]R[TH]
+OU[EA]M[TH] UIR[TH] UO[TH][EA]ICIOM[EA] [TH][TH][EA]IM
+ IC[TH] [TH]UOOR[TH]OO OU RUUI O[TH][TH]O[EO]O
+[EA] R[TH] [TH]U[TH]C [TH]M [TH]O[EA] MM OO [TH][EO]R [EA]C
+O [EA]O[EA]I[EA][TH] CCO [EA]I[EA] CO[EO] O[EA]CM[TH]O
+[TH] U[TH][EA] O[TH][TH]RMMIU [TH][TH][EA] I[TH] C[EA][TH][EA] OC
+I O[EA]OI [EA]CM [TH][EA]I U[TH]MM [TH]M[TH][EA][TH]MIO
+O[TH][EA]ORM[EA]U MO[TH]OROI[TH]C MO [EA]O [TH]
+[EA] [EA]UM R[EA]I[TH]MC IM [EA][TH]M[TH] [TH]IMU MC
+[TH]ROOORO[TH] [TH]O [TH] U[EA]M[EA] [TH]OM[EA][TH]OMM
+MO U OOMO[EA] [TH][EA]MCU I[EA]C[EA]OM OU[TH]
+[EA]U [TH]I [TH]CU [EA]OO[TH]O I[TH]ORU [TH]UOC[TH]
+MO [EA]MR[TH][EA]OOOOURO[EA][TH] MOMO[TH]IO M
+[TH][TH]MO[TH]O [EA][TH][TH]O[TH][EA][TH][TH][EA]U [EO]ICURI[TH]
+[TH] [TH]R[TH][TH][EA] [TH][EA][EA][EA] U[TH]C[TH]UR[TH]C[EA] [TH][TH] [TH]M
+O[TH]OO[EA] R[EO]U [EA]IRI[TH]U[TH] O[TH][TH]O II [TH]O
+[TH][TH]OC O[TH]OO U[TH]MC[TH] I[TH]OO[TH] UCC OU[TH]
+U[TH]U[EA] IUOU[TH]UO[EO] UMR MUU [EA][EO]UOO
+M [EA][EO][EA][EA] OMO[EA][TH] OC [TH]MR [TH]I[TH]OCU
+O M[EA]U[TH] UM[TH]U[EA] I[TH] RMCO U[TH]M[TH] [EA]U IM
+IMO[TH][TH][TH][TH] MUC[EA] IO[TH]M [EA]OCIOM[TH][EA]
+U COM[TH][EA]M[EA] UM[TH]R M[EO]M [EA] RO[TH][EA][TH]
+R UO[EA]U C[EA]MO[EA][TH]R O[EO][EA]M [EA][EA]MR
+[TH] [EA]M[TH][EA] O[TH] [EA][EA][EA]C[TH][TH][EA][EA] O[TH] IMC[TH]U
+[TH] [EA]M [EA]MR[TH][EA]O[EO][TH][EA]U O[TH][TH][TH]I [TH][TH][EA] UM
+ [EA]R[TH] OOIUIOUMO O[TH] [EA]UM UM[EO][TH][TH]
+[TH]OIM CU[EA]UOU [TH]OMR UOO UOIM[EA] MM
+C[TH]OU[TH] [EA]MUR URC [TH]UC IU[TH][TH][EA] OOR
+[EO][TH] U[EA]CI O[TH][EA] [TH][TH]IOI [TH]OMUR CM[TH][TH][TH]
+MO [TH]M I[TH]O[TH]U[EA] RI [EO]OR [TH][EA][TH][EA] [TH]C
+[EA][TH][EA][EA][EA]U RRR[TH][TH]R[EA] [EA]R [TH]O[TH] O
+[TH][TH]C MMM[TH]OMO [EA]C[EA] M[TH][EA][TH]IO OC[TH] [EO]R
+[TH]O[EA][TH][TH] [TH]OUO [TH][EA]U [EA]M OMOIM[TH] MM[EA]
+[TH]OUOO U[EA][TH] M[EA]C [TH][TH]O CU[TH][EA]C[EA]
+File finished in 45h 25m 37s (50% of the whole job has been finished).
+It will take an estimated total of 91h 0m 12s to finish the job, which is another 45h 34m 35s.
+
+─────────────────────────────────────────────────────────────────
+
+Started decryption of "/media/veracrypt1/3301/3301Analysis/data/sections/08.txt".
+The optimum result is using attempt "p φ φ p π φ + pr φ φ *", with score -3.916:
+ERA [EA][EA]RED[TH][EA]R[EO]ME[EA] [EA][EA]OR M
+[TH]T[TH]I[TH][TH] S[TH] TN[TH] SRM D[TH] R
+DRG LE[EA]O STAEGSD MG E[TH]
+IGOSTD[TH] RNLR RS [TH]SR [EO]LGL GT
+R[EA] [EO]LM[EA]RROERARR AL [TH]A HN[TH]
+GTR AARM EA[EA] REN [TH][EA][EA][TH] AGRMA
+MM LLRE AE[TH]MDME [TH]HSA EM[TH]AAT[EA] H
+AT HOS IS EA AAR AGRLRR A[EA][EA]
+[TH]IL[TH]N[EO]LIGR[TH]A RD MEGREMEGTR
+D[TH]SARGETLE AR[TH]S THTE GLOM
+RT[TH]ER[TH] [EA]R TR[TH]M HLIMOOA MR[TH]
+RO NGSMA TARGIA[EA] ANMEH AT[TH]A
+RLT LA[EO]MOR R GHTNG A[EA] G[TH] [TH]S[EA] M
+D[EA]T[TH]E MAT SRAMG [EA]RES[EA] OAGH[TH][TH]D
+ T[TH]MST [EO]RR[TH]M H[TH]AA [TH]LRMORIRT
+N MAE[EA]D[TH]RA ENEIR [EO]N[TH]EL THES
+T[TH] MRE [EO]L[TH]MRG[TH]M[TH] RE[EA]M GEM[TH][EA]
+ED N[TH]I[TH] MRRG[TH] [TH][EO]RA GN[EO]MGD N
+S [EA] [TH]RT [EA]M HESMRAE[TH]MG RRE[TH] AHSH
+I [TH]ARRG O[EA]RL TNRRN ERERM [TH]
+GTTS R[TH]TMAT GRNTMHR[TH]MAE
+N [TH]TG E [EO]E [TH]GI RRTS O[TH]O G
+[TH] HA SGMN[EA]IRI AND [EA]EEIG[EO]RA
+GTT [TH]A[EA]AA [TH]R THEA NGA D[TH]E SR
+G[TH]LEMT MRD [EA]DT AMSA MD[TH] [EA][EA]S RHEH
+TTHA[TH]T[EA] [EA]GM OHMGRA[TH] R[TH] HNR
+[EA][TH]R OIG [EA][EO] [EA]T[TH]MAS[EA] TM [TH][TH]T[TH] GN
+O DH MEIM[EO]G R [TH]RS [TH][EA] NANR S[EO][EO]L
+ANAI OED RRL IMEMR [TH]AG IG[TH]G [TH]
+DD[EA]OIM[EO] H[TH][TH] LNR [EA]MT E ALHG MR
+IS ORAH AE[EA]LT L[EA]T[EA] RA TOERT[TH]
+O [EO]R[TH][EA]D RRM[EA] IMH[EA]ESE EAAN RDR
+[EA] NL[EO] R[EA]R[TH] ET IN T[TH]ATNO MG[TH] N
+[TH] T[EA] [TH]RG [EO][TH] RRS[EA]TME[TH] ASEHMRMG
+R[TH]RRTHR[TH]N ARMNRE RO R[EO] T[TH]E
+TERR E [TH]DS[EO]L RAHA LGR[TH]G A
+RE[TH] R[TH]G[TH][TH]IH TDRS[TH] DLT[EA]RL T
+G [TH][TH]M TOTGIO NG[TH][EO][TH][EA]A RIT
+RIA GRT LG[TH]HRG GMAL [EO][TH][EO] [TH]TG
+HA R[TH][EA] HRR LIERA RGTDE R[EA]L R
+G[TH] TAM[EA] RR[EO]N O[EA][TH]AA RRA[TH]E[EA] H[EO]H
+GL[EO] [TH]EGRHI[TH] ISLS[TH][TH][EA][TH]H S[EO]S
+[TH]GA RAR ODAH AMRDA D[EO]RIH[TH] [EA] R
+[TH]I TE[EA]R [EA]M [TH]AE[EA]GRA EAROA RD
+[TH]ETT[EA] G[TH]S [EO]I[EA]R AM[EA] AGA [TH]
+A[TH]MAD[TH][EA]GEAE EL ER[TH] ERDTGME
+ SHMORL[TH] [EA]AD [TH]R [EA][TH]M [TH]GHTREH[EO][EO]
+GOSRA[TH]IT [EA]I R[TH] RRT[EA]M [EA]M[TH]MRL
+[TH]R [EO][TH]DT [EA][TH][TH]OR ME[TH]O NDMT[EA] A[EA]
+IR[EA]E [EA]TM RDATR DGNE S[TH]R[TH]MT[TH]O
+[EA]A[EA]L[EO]EA NOM GGT A[EA] LRGSE S[TH]S M
+SI[EO]AA ARAOL[EA][TH] MGE[TH] EADG N R
+E [TH][EA] ESL [TH]A[TH] GR [EO]T[TH] [TH]M [TH]RD[TH]AT
+LEN A[TH][EO] RGT A[TH][TH]R DNRROSG[TH]
+R ISAL RMR[EO]A[EO] [TH]LA SIT RLR[TH]A
+GRG EMT[EA] A[TH]D [TH]TM NH [TH][EA]I ERT
+HMI [TH]HL[EO]AA[TH] R NTG ESR RSER [TH]A[TH]
+RS[EA][TH] AT G[EO]LR NMTRAE [TH]RA HIN
+IHRN[TH][EA]N T[TH]HR LEMAT[TH]R[EO] GER
+[EA] GDA D[TH]RIO AR[TH]ASE[EA]HRMI HAG[TH]S
+ ILAG[TH] [TH]RG [TH]RER[TH]AT[EA][EA][TH]T RS[EO]I
+[EA]E ATMD[TH]AAET GA[TH]IG AS[EA]L[TH]I[TH]
+E [TH]S[TH]G AR[TH][TH][EO]RIGN [EA]RGA HRR
+ES[TH]T[EA] SN GLH RM MAT[TH][EA]ERA [TH]A
+[TH]NA ETS[EO]
+File finished in 55h 39m 45s (61% of the whole job has been finished).
+It will take an estimated total of 91h 51m 57s to finish the job, which is another 36h 12m 12s.
+
+─────────────────────────────────────────────────────────────────
+
+Started decryption of "/media/veracrypt1/3301/3301Analysis/data/sections/09.txt".
+The optimum result is using attempt "pr prime 1 - pr prime π * pr π φ ^", with score -3.596:
+TN ARNTP[TH]R[EO] NO NNGNORP
+ES[EO] RROARO TE[TH] [TH]A[TH] R
+T[EO]NGO HER RO E[EO][TH]RSNE MA
+NG T[TH]NG THO[TH][TH]M SAR[TH]E PER[EO]R[TH][TH]T
+ME NE[TH] NH R[TH] [EO]T SR[EO] EM
+File finished in 56h 6m 29s (61% of the whole job has been finished).
+It will take an estimated total of 91h 21m 47s to finish the job, which is another 35h 15m 18s.
+
+─────────────────────────────────────────────────────────────────
+
+Started decryption of "/media/veracrypt1/3301/3301Analysis/data/sections/10.txt".
+The optimum result is using attempt "p φ prime p φ φ * p φ π ^", with score -3.945:
+[EA][TH]M MOMCM [EO]I[EA]R[EA][TH] [EA]O[TH]UO
+RM M[EO]UO OIM MCR[TH] OO OR O
+MM M[TH] U[TH]IC [TH]C [EA] O[EA]CUO[TH][EA]
+[EA]O RMU[TH][TH]O[TH]C [EO][EA]OU O[TH]U[EO] IU[TH][TH]
+MMIR[TH] OO[EA][TH]O [EA][TH]O[EO][EO] [TH]R O[TH][EO][TH] [EA]
+C [TH]U[TH]R OOO U[TH][EA]RO[TH]M U[TH]U I[TH]UC[EO] I
+RI OM M[EO] MR[TH]M [EA]OM IO[TH] [TH][TH]M[TH][EA]M
+ MMM[EA]I [EO][TH][TH][EA] MO [TH]MU[TH]M[EA]U M[TH][TH][EA]O
+[TH][EA][TH]M OUM[TH][EA]U MR[TH]C[TH][TH] [TH]M[EA] O[TH][EA] M[TH]
+M OO O[TH]OIR[TH][EO][TH]I CR[TH]O [TH][EA]O M
+[EA]U MIOUM[TH]C C[TH]OU O[TH] [EO] U[EA] [EA][TH][TH]
+[TH] IUM[TH]COM C[TH]OMO CICOMOO I[TH][TH] OU
+UMO[TH][TH]M [TH]R[TH] [EO][EA][EA][TH] IOOOO C [EA][EO]
+O [EA]IMR [EA]OOU IURI [TH]M[EO][EA]OOI CO
+M [EA]UM[TH]O UO[EA][EO][EA][TH]O[TH] C[TH][EA] [EA][EA][TH] IU
+MO [TH][TH][EA][TH] CUU[EA][TH] [TH]O R[EA][EA]MC O[EA]U
+[EA] ROUO[TH] C[EO][TH]U [EA][EO][TH]MRO M[TH]O[TH][EO]
+[EA]U[EO][EA][TH]CO [EA]O OMRO[EO] [TH]R O[TH][EA]
+[EA][TH]M[TH] [EA][EA]U M[TH]OO[TH]MIM[TH]R O[TH]M M[EA] [EO]
+CM RI R[TH]C U[TH][EO]M UUCOO[EA]CM MC M[EA][EA]
+[TH][TH]R M[TH][EA][TH]OI[EA] ICI[EO]O[EO][EA]R [EA][TH]O
+[TH][TH]I M[TH][TH]UUO[TH] [EA]O[TH] CO[EA][TH] [TH]OU[EA][EA]
+OU[EA] MM CIUC[EA]ROR[EA]CR [EA]UOO CO
+[EA][TH][TH]O[EA] [TH]R U[TH][EO] [EA]U U MMM R[TH]CU
+[EO][TH][TH]RM [EA]UOMCUC[TH] MIC[TH] CUR UO[TH]
+[EA][TH][EA]RUI [TH][TH]M OM [TH][TH]I ROCUO RMMM
+COMO[TH]O [TH][TH]O [TH]C[TH] CO [EA]MI [TH][TH] MI[TH][TH][EA]
+CCR CMM[TH][TH] MU RM[TH][TH]OOM U[TH][EA] MI[TH]
+R MUU[TH][EA] MCMCM[TH][TH]OU MUU O [EO][TH][EA][TH]M
+RI[TH] [TH]U [TH]M[TH] UMOM [TH]M[EA][TH] [TH]I[TH] I[EA]M
+[EA]O [TH]O[EA]M U[EA]U UM [TH]OO OU[EA] O[EA]IIU O
+O[TH]CI[TH] OI [TH][TH][EA][EA]I [EA]MM[TH]UC [EA]CC[TH][EA][EA]
+[TH][EA][TH][EA] [EA]RC OI[TH][TH]MR[EA]I[EA] OI[EA]UI[EA]
+OORR OO U[TH][TH]U[TH][EA]U R[TH]UMM CO[EA]C
+[EO] M[TH]UMRUM
+1 [TH][TH]MC [TH]I[EA] ROMMO[TH][TH][TH] IO U[TH]M[EO]
+[TH] [EA]OO C[TH]O OMCCOMU MU[TH] OOR[TH]R U[EA][TH]
+[EO] MC MO[TH][TH]O [EA]C[EO]CCM[EA]R CU[EO]RI U
+MU [TH]CU[TH][TH] [TH][TH][TH][TH][EO][TH] UM[EA][EA]UC MO[EA] OO
+M[EA]I[TH]M[TH][EA]OCOC ICUC[TH]ORI [EA][TH]O MI[EA][EA]
+OMUU CMI M[TH] UOO U[TH]OI [EO][EA]IO[TH]
+2 O[EA]OO O[TH]OM [EA][TH][EA]O[TH][EA] [TH][EA][EA]O [TH]M
+C[TH]U[TH][TH][TH][EA][TH] MUMM OCU[TH]RMM [EA]IOU
+[EA][TH] [TH]CO[TH][TH] [TH][TH] MOUO UM[EA] [TH][EA]U [EA][TH]M[TH][TH]
+ O[TH][EA][EO] M[TH]UI O[EA] OU[TH]M[TH]ORUO [EA]MO OI
+3 [EO][TH][EA] OOO[TH] U[TH]MO IO [EA]O[EO][TH]O ICO [EO]
+C[EA][EA]M[TH] IC [EA][EA][TH] [TH][EA] M[TH]U O IR I[EA]
+M MIC [EA]OMC[TH]M RU[TH] U[TH]UR M[TH]U[TH]MC[EO]
+[TH]C MORI R[EA]R[EO]OI[TH][TH] IUO UC[TH]MI[TH]M
+O UUR[EA] [TH]UO
+4 [EA]C[TH]CRUR OI[TH]RO[EO]MOM [EA]RM[EA]
+[EA]OM [EO]O OO[TH] [TH]M OR[TH][EA][EA] OI[TH]M
+[TH]IMMM[EA] RI[TH]OMO [TH]M [TH]U[TH][TH] M[TH][EA]R[EO]
+I[TH][EA][TH][TH] O[EA]M O[EA]OO [TH]OI O[EA]MMU[EA]
+O[TH]OUI RIC[EA]U MMR
+5 MIO[TH]IC [TH]COC I[EA]ROIMU M MOR
+M[EA][EA] MUM [TH]MORC R[EA][TH] MUU[EO]IR[EA][EA]R
+M[EA] OI[TH] UM[TH] CI RM[EA]OO U[EA]R[TH] M[TH]
+[EA]M[TH]UU[EA]I O[TH][TH]U UMO O[EA]CR[EO][TH]M [EA]O
+M[TH]O[EO]MO[TH]MMR U[EA][TH]I[EA]M[TH]U M[EO]O [EA]UR
+[EA]C MC[TH][EA]C C[TH]U [TH]I[EA][TH][TH] MM
+I[EO]CICR CI[TH]MUR[TH] [EA][TH][EA] [EA]R [TH]CIC
+[EA][TH]OOR[TH] OM [TH]URI[EA][TH]U M[TH][EA][TH][EO]
+[TH]O [TH] O[TH]MMI O[EA][EA] I[TH][TH]C[TH]O [TH][TH]UR[TH] O
+[EO]IM I[EA][TH][TH] [EA][EA]RRUMO[EA] [EA]MM[EA][TH] OU
+R MR[TH]OI[EA] M[TH][TH][EA][TH]IU U[EO][TH]C UUMM [EA]U
+C[TH][EA]UU R[TH]UI[EA]U R[TH] R[EA]OI[TH]I U[EA][EA]
+U O[TH]MIM UOMC[TH][EA] OO MUUM[TH] [EA]UI O
+R[TH]OCM
+File finished in 66h 41m 10s (73% of the whole job has been finished).
+It will take an estimated total of 91h 40m 28s to finish the job, which is another 24h 59m 18s.
+
+─────────────────────────────────────────────────────────────────
+
+Started decryption of "/media/veracrypt1/3301/3301Analysis/data/sections/11.txt".
+The optimum result is using attempt "p φ prime p φ φ * p φ π ^", with score -3.607:
+RM[TH] [EA][EO][TH]R [TH]O[TH]MOC ROMI[EO] U
+M[TH][TH] O[TH]I CM[TH][TH]I [EA][TH][TH][EO][TH]O M
+[EO][EA]U[TH][TH][TH]I O[TH]M [TH]C[TH] [EA][TH]OMO
+[TH][EA] M[EA]M O[TH] IORUI [TH][EA][TH][TH]MM[EA][TH]MO O[TH][EA]O
+[TH] IM[TH][EA] OCM [EA][TH][TH] [TH][TH]O OO[TH]MRM [TH]U O
+RC[EA] [TH]CC [TH][TH]O ROO[EA][EA] I[TH]C
+File finished in 67h 17m 11s (74% of the whole job has been finished).
+It will take an estimated total of 91h 15m 50s to finish the job, which is another 23h 58m 38s.
+
+─────────────────────────────────────────────────────────────────
+
+Started decryption of "/media/veracrypt1/3301/3301Analysis/data/sections/12.txt".
+The optimum result is using attempt "p π prime p π π - p π *", with score -3.611:
+EEA [EA][TH]AEL ER[TH][EA]L [TH][TH][TH][EA] [TH][TH]
+[TH] OL[TH]AE AE[TH][EA] A[TH] [TH]LO[TH][TH]E
+EE[TH][EA]E[TH] AEO [TH]EO LR O[TH]EE O[EA]E
+[EA]A[TH][TH] LL[TH]O[EA]L A[EA]E LE[TH][TH] [TH]RO
+A[TH]OL[TH][TH][TH][EA]L ER[EA]OE E[EA][TH][EA] E[TH]E
+[TH][TH] [TH]E[TH]E [EA][TH]E[EA][TH][EA] OE OE EA[EA] L[TH][EA][EA]
+[TH] [EA]LO[EA] [TH]EOA OEOA[TH] O [EA][TH][TH][TH]L[TH][TH]A
+E[TH] [TH]E[TH] LEO[TH][TH]EE [TH]O[TH] [EA]L [EA]E[TH] LL OO
+E[TH] EAL[TH][TH] R[TH][TH][TH]A[TH]E [EA]E EAE [TH]
+EE[TH] O[TH]OAEO [TH][TH][TH][TH] RO[TH] [TH][TH]E [TH]O[TH]A
+E[TH]E[TH] [TH]E[TH]O [TH]E[TH]EA E[TH][TH]E RE
+[TH]LE E[EA]AA[EA]E EA[EA]A [TH]E[TH]O [TH]E[TH] L[TH]
+L[TH] [EA]OE E[TH][TH] A[TH]A[EA]L [TH]E [TH]R[TH]R[TH] OE
+ELLE [TH][TH]LE [TH]EE EO[TH] EEE[TH][EA]EEEL EAO
+[TH][EA]OLE O [TH]EO A[TH]EEL [TH][TH]O[TH][TH]OARE[TH]
+L[TH]A[TH] [TH][TH]E[TH][TH] [TH]A [TH]E[EA]O[EA] OOA E[TH]
+[TH] E[EA] [TH]EEO [TH][EA]EE[TH]L[TH]A LE[TH][EA] [TH]AOO
+LR [TH]R[EA] O[EA][TH]EE [EA]EE[TH] [TH][TH][TH][EA] [EA]EE
+A [EA]LL REA O[TH]O[EA][TH] E[TH]RA[TH][TH]E E[TH][TH]
+EERA E[TH]L [EA]R[TH]L[TH][TH][EA] [EA]OE LOLE[EA]LO
+ [TH][EA]E [TH][TH] EE[EA]L[TH] [TH]O[EA][TH] [EA][EA][TH][TH]A[TH]L
+[TH]LE AEO[TH][TH]L REE AE[EA]EE[TH][EA] LE[TH][EA]
+[TH][EA]OREL OOLLLA[EA][TH] EE A[EA][TH] OO[TH][TH][EA]
+A [TH]EAA L[EA]L R[TH][TH]EAEE[EA]A EE[TH][EA] OO[EA]
+O[TH] [TH][EA] ELE REO OE[TH]O[TH]EL[TH]EE ER [EA]O
+[TH][TH][TH] O[TH][EA]OR EAO [TH]OA[TH]AERL E[TH]A
+A[EA]OLEO [TH][TH]L[TH]RLOE [TH][TH]L [TH][TH]AE L[TH]E
+AOL EE[EA] EEEE[EA]EA[EA][TH][EA] AL [TH][TH]LE
+[EA]L[TH][TH]L[TH][TH] ELE[TH][TH]A E[EA] EEL[TH] [TH]
+LOE E[TH] EL[TH]E A[TH]L[EA]AL E[TH][EA]LE[TH] L[TH]A
+[TH]EE[TH]R [TH]EOOLE[TH][TH] EO[TH] [EA]E[EA]EA [TH]
+E[TH]RE ELEA[TH]L[EA][EA]A [EA]E LO [TH][TH]EE [EA]R
+[EA] [TH]E[TH] E[EA] LE[TH][TH][TH][EA]LA LELE EOEER[EA]
+[TH] [TH][TH][TH]O E[TH]AL AE[TH] AO [TH][TH]EA[TH] [TH]
+E[TH] EAE EE[TH]EEE [TH]EO A[TH][TH]E[TH]EE[EA]E
+L[EA] L[EA][TH]E [TH]L[TH]E [TH][TH]EAREEE [TH]O[EA]OO
+E[TH] [TH]EEAEE[EA]E LEAE [TH]E[EA]LOEEEO[EA]
+[EA]E[TH]A [TH][TH]ER EO [TH]L[TH][EA][TH][TH]O[EA]A[TH] ROA
+[TH]L EO [TH][TH] [EA]O[TH]EEE[EA] E[TH]AO [TH]LEL[TH]
+[TH][TH]E EE[EA]LE EEEE[EA]E [TH][TH]L[TH] EEA[TH]
+EE[TH][TH][TH]E E[TH]LLEA[TH] O[TH]EE E[TH]RE[TH][TH]L[TH]
+[EA][TH]E L[EA][TH][TH] LAA E[TH]A EE[EA]E LEA
+[TH] [EA][TH]E[EA] O[EA]E [TH]LE EEE EE [TH]E [EA]E[TH]EO
+E L[TH] [TH]O[TH] EE[EA][TH]LO[EA]O O[TH]E E[EA][TH] ELO
+EE[TH][TH][EA] OEL [TH][EA]LOE[EA]O [TH]OL EO[TH] EROR
+[TH]A [TH][TH]L [EA]E[TH][TH]E[TH][TH] E[EA] [TH]O LE [TH]E AE
+[TH][TH]AL A[TH][EA]E[TH]E[TH]LO[TH]O [TH][TH] EE[TH] [EA][TH]
+[TH][TH] [TH]A[EA] AEO[EA][TH][EA]L LE[EA][EA]AEE[TH]O[TH]O
+E[TH][TH] LO E[TH]E[TH][TH] EE[EA]EL[TH] LA[TH][EA]O
+[TH] [TH][TH]L[TH]EL [TH][TH]E OL[TH]AELL EELO [EA]EE[EA]
+AEE ALO EO[TH]O[TH]LE OA[EA]ERL[EA] AO[EA]E
+[EA]OE[EA] [TH]LE LEOE ERL [EA]EE[TH] EA E[TH][TH]
+R[EA]E[TH] [EA]ELE [TH]AEE A[EA] [EA][TH] E[TH]LE [EA]A
+OE[TH]AO R[TH]LEE[TH]ERO O[EA]EE[EA] [EA][EA][TH][EA] [EA]
+ EE ALE[EA]E[TH] [EA][TH]LO [EA]EOA[TH] ELE[TH] EO
+[TH] [TH]R[EA]E [TH]E [TH][EA]EE[TH]O[EA]E AL LOO[TH]E
+A[TH] [TH][TH]O[TH]L [EA]L[TH][EA][TH][EA][TH] ER[TH][TH][TH]L[EA]O [TH]
+[TH]E[TH] [EA][EA]EEO[TH][TH]EE ALO[TH]E EA[TH] L[TH]
+[TH][EA]E [TH]E[TH]L[EA][TH][EA][TH] [TH][TH]AEEE LAAE
+[TH] AOO [TH][TH][TH] L[TH] [TH] [TH]LA[EA]EELA EO[TH][TH]
+AE [TH]OELE[TH][TH]E [TH] [EA]E[TH] EE[TH]OA[TH]E A
+EEO[TH] [EA]E O[TH][TH][TH] LE[TH]E AOLA[EA]R E[EA]L
+E[TH]LLAL O[EA] OA[TH]O[TH] E[TH] [TH]E[TH] [EA]L E[TH][TH]
+OEER[TH][TH][EA] LE[TH] A[TH]E A[TH]E[TH]LL EA[TH]E
+AOLA[TH][TH]EE[TH]O [TH] [TH]R [TH]OA OO[TH][EA]O[TH] E
+EO[TH] [EA][EA]O [TH]E [EA]E[TH][TH] A[TH][TH]A[TH] O[TH] E[EA]E
+[EA]EA[EA][TH] [TH][TH][TH][TH][TH]E OLE [TH]EEE [EA]OAE
+R [TH]E[TH][TH]EELA E[TH]ROA[EA]O[TH][TH] OO[TH]
+LA [TH][TH]O[EA]OE [TH][TH][TH] [EA][TH][TH]L O[TH]OELE[TH]
+[EA]O[TH] [TH]E[TH]L[EA] E[EA]OL [EA]EEEE [TH][EA]E[EA]EO[TH]
+AEO [TH]L [EA][TH]A EA [TH][EA] [TH][TH]L[EA]LLE[TH]E O[TH]
+L[TH][TH]EL[EA][TH] AEEE ELO[TH]R A[TH][EA]R AA
+[TH] [TH]OA[EA] E[TH]A [TH][TH]E[TH] [TH][EA] O[TH][EA] EO[EA][TH]
+E[TH]E [TH]LA [TH][TH][EA] O[TH] [TH][EA] EEA[TH]E[TH]E RE
+O E[TH][TH]EA[TH][EA]A[TH] [TH][TH][EA] [EA]E[TH] [TH]AO [TH][TH]
+[TH][TH]AE O[TH][TH]EEE OA[EA]LAEEE[EA]LEL AL[EA]
+[EA][EA]EE [EA][TH][TH]LR[TH]AE [TH][TH][TH][EA][TH]E A[TH][TH]
+R [EA][TH][TH][TH][TH] [TH]A[TH]L EE[TH]L EE[TH]L[TH] [TH][TH]
+[TH] OE[TH][TH] O[TH] AA[TH]E [TH]LRE[TH] EEEA [EA]OE[TH]
+E [EA]EO EAEEROEE [EA]O [EA]A[TH] [TH]OA[TH] LA
+E[EA]L O[TH][TH] R[EA] L[TH]A REAR[EA] LOL EA[TH][TH]
+[TH][TH]O A[EA][TH] A[EA]LE O[EA] [TH][TH]E EEREEE[EA]E E
+AO [TH]E[TH]E[EA][TH]OE[TH] [EA][TH]AO [TH]OA[TH]E[TH]EE
+[TH]LA E[TH]OA[TH]AL[TH] E[TH][TH]E[TH]LAEEA AO
+R EE[TH]EELL A[TH]ELOEO [TH][TH]EL OE EOE[EA]
+O[EA] E[EA][EA][TH][EA]E[TH]EEEO O[TH]EE[EA]O[TH] AA L
+E[TH]E E[TH]RE[EA][TH] [EA]AO E[TH] [TH]E[TH][TH][TH] [TH]O[TH]A
+ ERR ALE[EA] O[TH]L E[EA][EA] EEEEE[TH]EE EO[EA][TH]
+[TH]EE[TH] [EA]EA O[TH]EA[TH]R [EA]ER[EA] LEL E
+[TH] OEA E EO [TH]EL[TH]OL[EA]LO OER LLELL
+ [TH][EA][TH]E[TH]E [EA]E [TH]EE[TH]E LA [TH]EAE EL[TH]R
+ [TH]EOE [TH][TH][EA] [TH][TH][EA] E[EA][TH]L[TH]EAAO A
+[TH]LE[EA][TH] E[TH]E[TH][TH]L O[TH][TH] [TH][TH][EA] [TH][TH]R LL
+[TH][TH][TH]A [EA][TH]E EO[EA][TH]A[TH]OLLE [TH]O[EA][TH]
+[TH][TH][TH] [TH]L[EA] [TH][EA][TH]LE[EA][TH]ALE[TH] EL[TH] E[TH]EE
+L[TH]LA [EA][TH] [TH][EA][TH] E[TH]L O[TH]LR EE RALE
+[TH]LE [TH] EEREE OAL[TH]E E[TH]E[TH] AOLR[EA]O
+E OEA E[TH] E[TH]A[TH][TH]E [TH]AO [TH][TH]R LEL
+ OOO[TH]E[TH] E[TH][EA]OE AEE [TH][EA]AA[TH]L REEL[EA]
+[TH]L[EA] [TH]E [TH]A RA[EA]L A[TH]E[TH][TH] E[EA][EA]O
+ [TH][TH][TH][TH]LL [TH]E [TH]LEOEOE ER [TH]E[EA][TH]A[TH][TH]O
+A A[TH][EA]A[EA]ELA [TH]EEE OOO EE AO[EA] [TH]
+[TH][EA] A[TH]L O[TH] O[TH]E[TH]EALA [TH] [TH]L E[TH]
+L[TH]EEO REEO[TH] [EA]O[TH] EE[TH]E [TH]AO OAEL
+R AO[EA] [TH][TH][TH]E[TH]E [TH]EE L[TH][TH] A[TH] AL[EA]
+EALEA [TH]EE[EA] AE[TH]E[EA] EER[EA][EA]E[TH] RO
+E[TH]O L[EA]E [TH][TH][TH] ELE[TH] [TH]LO [TH]E[TH]A[EA]EOE
+E [EA][EA] EOO L[TH] L[TH][TH]A AEE[TH]E[TH] AL EE[TH]
+E [TH]AA [TH][EA]E[EA] [EA]LEEE[TH] EAL A[TH][TH] [TH][EA]
+AE [EA]ERO[TH]O E[TH]LEO E[EA] O[TH]O[EA]RA
+
+3N 3p 2l 36 1b 3v 26 33
+1W 49 2a 3g 47 04 33 3W
+21 3M 0F 0X 1g 2H 0x 1R
+1n 3I 2r 0P 2U 16 2L 2D
+1t 1s 3H 0d 0s 1K 2D 05
+1K 1O 0S 1D 3o 1L 3J 1G
+4D 0G 0L 0x 1Q 2p 2a 1K
+4E 1w 2Q 19 1k 3G 24 0p
+22 4F 0P 3C 3J 1D 2n 1m
+2i 1J 3P 2v 1s 2O 0k 1M
+2M 0w 3L 3D 2r 0S 1p 15
+3V 3e 3I 0n 3u 1O 0u 0Z
+3g 2U 1C 0Y 1N 3n 0W 3Q
+22 13 0V 3c 0E 34 0W 1t
+1D 2N 3H 47 0s 2p 0Z 34
+0g 3v 1Q 0s 0D 0K 2h 3D
+3L 2x 1Q 20 2n 2L 1C 2p
+0A 29 3r 0D 45 0k 2e 2W
+25 3U 1W 2r 46 2s 2X 39
+3p 0X 0E 1q 0q 4B 49 48
+3r 3b 3C 1M 1j 0l 4A 48
+40 3m 4E 0s 2s 1v 3T 0I
+3t 2B 2k 2t 2O 0e 2l 1L
+28 2a 0J 1L 0c 3C 2o 0X
+00 2Z 2d 1T 2u 1t 1j 0l
+1o 1E 3T 18 3E 1G 27 0L
+0v 2t 06 11 1A 2U 4B 1O
+2M 3d 2S 0x 0w 0q 0p 2V
+18 0q 1D 49 2O 00 1v 2t
+1k 3s 3G 21 3w 0W 29 2r
+2O 2L 0g 3Y 0M 0u 3i 3C
+1r 2c 2q 3o 30 0a 39 1K
+
+OOR EEO[TH]EE [TH]AELA LAEA[EA] EEE [TH]O
+A[TH] ERE RL[EA] E[TH]E[TH][EA]AAE [TH]OA EA
+[TH][TH]OEA[TH] O E[EA]A OOE[EA]EEE [TH]O[EA]R [EA][TH]
+E[TH][TH][EA][TH]O EEE A[TH][EA][TH]AEOL O[TH][EA]E ROE
+R EA [TH]E[TH]EOO[TH][TH] [EA]E[TH]AOLE ELO O[TH]
+[TH]L[EA][EA] [TH] ROA LAL A[EA]O[TH] [TH]REEE EE
+E RE A [TH]E[TH]R[TH]OA L[TH] A[TH][EA][TH] E[TH][TH][TH]
+[EA]E [EA][EA]E RA L[TH]R[TH][TH] R[TH][TH][TH][TH][TH]E[TH][TH]E
+[TH]LA [EA]EAE [TH]E[EA][TH]OLA [TH][TH][EA][TH][TH] [TH][TH]
+A EAE ER[TH]EEAE[TH] EA[TH][TH] OEA[EA] [TH][TH]LE
+L[TH]LE [TH]A[TH][TH] EEOE[TH] [TH][EA]O[TH][TH] [TH]O[TH]
+O[TH]E[TH]E [TH][TH]ELL EE [TH][EA][EA] [TH]E [EA]O[TH] [TH]
+[TH] [TH][TH]A[TH] EOO[TH]A[TH] A[EA][EA][EA] E[TH]E E[TH] [EA]
+OEL EO [TH]A[EA] EE EOE[EA]E[EA][TH][TH]EE[TH][TH]
+EELO[TH] [TH]A[TH] [TH]EL[TH]A[TH]L[TH] OAL[EA] E[EA]
+[TH][TH]R A[TH]LE[TH]LL[TH] [TH][TH]E [EA]EL[TH] O[TH]L[EA]L
+[TH]E[TH]E[EA] [TH]AR [TH]L[TH]E[TH]OE [TH]AA EEO A
+O[EA]L AE[EA]L[TH]E[TH][EA] [TH]AA[EA]A[TH] E[TH][EA]L [EA]
+L[TH][EA] [EA]EO[TH] [EA]O [TH][TH][EA][TH]L [TH]RE[TH]EA
+[TH] E[EA] [EA]EE [EA]EE[TH] [TH][TH][EA][TH][TH]E[TH]LLA [EA][TH]E
+[EA]EE[EA][TH]EE[EA][TH] L[TH]OL[TH]O[TH] [TH]EL AA[TH][TH]
+A[EA][TH] O[TH]AO [TH]E[EA] [TH][TH]E A[TH] AA[EA] [TH]
+RO[TH]E OE[TH]A EL[TH][EA] LEAEAEL[TH]E[TH]O [TH]
+[TH] EE[EA] LL ARA[EA][TH][TH] [TH]E[TH]A[TH] LA[TH][TH][TH]
+ [TH]L RE
+File finished in 99h 37m 47s (96% of the whole job has been finished).
+It will take an estimated total of 103h 53m 41s to finish the job, which is another 4h 15m 54s.
+
+─────────────────────────────────────────────────────────────────
+
+Started decryption of "/media/veracrypt1/3301/3301Analysis/data/sections/13.txt".
+The optimum result is using attempt "p φ φ p π φ + pr φ φ *", with score -3.87:
+E ERTIG[TH]ME ITRR[TH]AEE AE
+R RGIA[EA][TH] MO DRDTR EME RR AA
+R [TH]A[TH]AN GNGROMG OGR L
+R[TH][TH] TA[TH]SR[TH]EON[TH] RNIGM[EA]T[TH] S[TH]
+N [TH]EOAI ERRATI[EA]R [EO]MGL ATE [TH]
+HT[EA] ERNHT HAIH ARM ERAED R L
+AN M[EA][TH][TH]S [TH]RNRG TDA [TH][EA]TO [TH]A
+H[TH][EO]MRA GAS[TH]T TE[EO] MTRR[EA]ESG A
+IH[EO]A EOHG R[EA]L[EO]RLTA [TH]T RAR
+[EA]R[TH]A OT[TH]TLR TRAR[EO]H [TH]RH S[EA] [TH]
+GEOME[TH]NER E[EA] TRAG[TH]RGLTA
+R DEMA [EA]S [TH]E [EA][EO]TTGD [TH]IESO[TH] AL S
+G[TH][TH]ME[TH]OR[TH]R[EA][EO] E[EA]TIR[TH] S[TH][EO]O
+[EO]R GRMT[TH]T[EA] R[EA][EO]GGR[EA] GH OGME
+O[TH] TN[TH] SRM
+File finished in 101h 16m 11s (98% of the whole job has been finished).
+It will take an estimated total of 102h 57m 38s to finish the job, which is another 1h 41m 26s.
+
+─────────────────────────────────────────────────────────────────
+
+Started decryption of "/media/veracrypt1/3301/3301Analysis/data/sections/14.txt".
+The optimum result is using attempt "p i prime 1 - -" (and skipping rune index 56), with score -3.312:
+AN END WI[TH]IN [TH]E DEEP WEB [TH]
+ERE EXISTS A PAGE [TH]AT HA
+SHES TO
+
+36367763ab73783c7af284446c
+59466b4cd653239a311cb7116
+d4618dee09a8425893dc7500b
+464fdaf1672d7bef5e891c6e227
+4568926a49fb4f45132c2a8b4
+
+IT IS [TH]E DUTY OF EUERY PILGR
+IM TO SEEC OUT [TH]IS PAGE
+File finished in 101h 46m 16s (99% of the whole job has been finished).
+It will take an estimated total of 102h 36m 49s to finish the job, which is another 50m 33s.
+
+─────────────────────────────────────────────────────────────────
+
+Started decryption of "/media/veracrypt1/3301/3301Analysis/data/sections/15.txt".
+The optimum result is using attempt "p", with score -3.314:
+PARABLE LICE [TH]E INSTAR T
+UNNELNG TO [TH]E SURFACE
+WE MUST SHED OUR OWN C
+IRCUMFERENCES FIND [TH]
+E DIUINITY WI[TH]IN AND EMERGE
+File finished in 102h 14m 1s (100% of the whole job has been finished).

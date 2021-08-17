@@ -1,0 +1,1 @@
+[NGram]s.txt sourced from http://practicalcryptography.com/cryptanalysis/text-characterisation/quadgrams/
