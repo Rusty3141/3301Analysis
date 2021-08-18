@@ -13,8 +13,8 @@ namespace AutoDecrypt.modules.language
     /// </summary>
     internal class AttemptBuilder
     {
-        private static readonly string GRAMMAR_PRODUCTION_RULES = IOTools.PersistentPath("data/grammar/ProductionRules.txt");
-        private static readonly string GRAMMAR_LOGICAL_REPLACEMENTS = IOTools.PersistentPath("data/grammar/LogicalReplacements.txt");
+        private static readonly string GRAMMAR_PRODUCTION_RULES = IOTools.PersistentPath("_data/grammar/ProductionRules.txt");
+        private static readonly string GRAMMAR_LOGICAL_REPLACEMENTS = IOTools.PersistentPath("_data/grammar/LogicalReplacements.txt");
 
         private static readonly Dictionary<string, List<string>> parseRules = new();
 
@@ -34,7 +34,7 @@ namespace AutoDecrypt.modules.language
         public AttemptBuilder(List<OperationReference> operations, string gematriaPath, bool eliminateEquivalent)
         {
             Maths.Generate();
-            Gematria _gematria = new(IOTools.PersistentPath(Path.Join("data", gematriaPath))); // Required for removing equivalent attempts.
+            Gematria _gematria = new(IOTools.PersistentPath(Path.Join("_data", gematriaPath))); // Required for removing equivalent attempts.
 
             Console.Write("Parsing production rules and generating all decryption attempts. ");
 

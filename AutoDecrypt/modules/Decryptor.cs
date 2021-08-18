@@ -56,7 +56,7 @@ namespace AutoDecrypt.modules
                     string printableProperty = properties[i].GetValue(Settings).ToString();
                     if (properties[i].PropertyType == typeof(string))
                     {
-                        printableProperty = IOTools.PersistentPath($"data{IOTools.PathSeparator}{printableProperty}");
+                        printableProperty = IOTools.PersistentPath($"_data{IOTools.PathSeparator}{printableProperty}");
                         properties[i].SetValue(Settings, printableProperty);
 
                         // Path property.

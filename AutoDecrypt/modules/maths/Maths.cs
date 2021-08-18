@@ -15,7 +15,7 @@ namespace AutoDecrypt.modules.maths
         public static void Generate()
         {
             _primes = GeneratePrimes(900000);
-            _pi = File.ReadAllText(IOTools.PersistentPath("data/Pi.txt")).Select(n => int.Parse(n.ToString())).ToArray();
+            _pi = File.ReadAllText(IOTools.PersistentPath("_data/Pi.txt")).Select(n => int.Parse(n.ToString())).ToArray();
         }
 
         private static int[] GeneratePrimes(int n)

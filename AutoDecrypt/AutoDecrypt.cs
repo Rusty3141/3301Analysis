@@ -22,7 +22,7 @@ namespace AutoDecrypt
     {
         private static readonly string[] acceptableBoolStrings = { "yes", "no", "y", "n", "true", "false", "t", "f" };
 
-        private static readonly string JOB_DIRECTORY = IOTools.PersistentPath("data/jobs/");
+        private static readonly string JOB_DIRECTORY = IOTools.PersistentPath("_data/jobs/");
 
         /// <summary>
         /// Class <c>CommandLineOptions</c> defines command-line parameters that can be passed to the program.
@@ -32,7 +32,7 @@ namespace AutoDecrypt
             [Option('m', "make", Default = false, HelpText = "Begin interactively making a job settings file. Accepts no additional data and is used by itself to enter the mode.", SetName = "Make operation")]
             public bool MakeSettingsMode { get; private set; }
 
-            [Option('d', "decrypt", Default = "SolvedPagesDecryptions.json", HelpText = "Begin decryption with the specified job settings JSON file. Accepts a path (relative to data/jobs/) to the job settings file. The path is mandatory if this argument is passed.", SetName = "Decrypt operation")]
+            [Option('d', "decrypt", Default = "SolvedPagesDecryptions.json", HelpText = "Begin decryption with the specified job settings JSON file. Accepts a path (relative to _data/jobs/) to the job settings file. The path is mandatory if this argument is passed.", SetName = "Decrypt operation")]
             public string JobSettingsPath { get; private set; }
         }
 
@@ -75,7 +75,7 @@ namespace AutoDecrypt
         {
             DefaultJobSettings defaultSettingsReference = new();
 
-            Console.WriteLine($"All paths are relative to \"data{IOTools.PathSeparator}\".");
+            Console.WriteLine($"All paths are relative to \"_data{IOTools.PathSeparator}\".");
 
             Console.WriteLine($"{Environment.NewLine}Prompt format: Property [Default Value] (Acceptable Formats)?: Input");
             IOTools.PlaceDivisionBar();
@@ -175,7 +175,7 @@ namespace AutoDecrypt
 
             // Gather selected pages/sections to run the attempts on.
             List<DatafileReference> datafiles = new();
-            string[] fullPaths = Directory.GetFiles(IOTools.PersistentPath($"data{IOTools.PathSeparator}{settings.DatafileDirectory}")).Where(x => x.Split('.')[^1].ToLower() == "txt").OrderBy(f => f).ToArray();
+            string[] fullPaths = Directory.GetFiles(IOTools.PersistentPath($"_data{IOTools.PathSeparator}{settings.DatafileDirectory}")).Where(x => x.Split('.')[^1].ToLower() == "txt").OrderBy(f => f).ToArray();
             for (int i = 0; i < fullPaths.Length; i++)
             {
                 datafiles.Add(new DatafileReference(fullPaths[i].Split(IOTools.PathSeparator)[^1], i));
@@ -246,7 +246,7 @@ namespace AutoDecrypt
             try
             {
                 settings = JsonSerializer.Deserialize<JobSettings>(File.ReadAllText(pathToSettings));
-                datafilePaths = IOTools.GetSelectedDirectoryContents(IOTools.PersistentPath($"data{IOTools.PathSeparator}{settings.DatafileDirectory}"), settings.FileNamesToDecrypt);
+                datafilePaths = IOTools.GetSelectedDirectoryContents(IOTools.PersistentPath($"_data{IOTools.PathSeparator}{settings.DatafileDirectory}"), settings.FileNamesToDecrypt);
             }
             catch (IOException e)
             {
