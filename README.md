@@ -26,6 +26,6 @@ For example, the postfix expression `p i prime 1 - -` (=`p i prime φ -`) decryp
 
 #### Run custom jobs
 
-`dotnet run -d <path to JSON file relative to "_data/">`
+`dotnet run -d <path to JSON file relative to "_data/jobs/">`
 
 ##### Example: `dotnet run -d SolvedPagesDecryptions.json`
